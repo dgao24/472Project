@@ -1,4 +1,4 @@
 # 472Project
 CMSC472 Final Project
 
-Members: Daniel Gao, Erik Kelemen, Naga Nageswaran, Yichi Zhang, Ashish Manda
+Members: **Ashish Manda** -Main Contributor, Daniel Gao, Erik Kelemen, Naga Nageswaran, Yichi Zhang
